@@ -1,0 +1,45 @@
+"N,N-Dimethylformamide",10.0,Pure Substance,1
+"N,N-Dimethylaniline",10.0,Pure Substance,1
+ethylene glycol,10.0,Pure Substance,1
+Acetonitrile,10.0,Pure Substance,1
+Ethyl Alcohol,10.0,Pure Substance,1
+1-Heptanol,10.0,Pure Substance,1
+Glutaric dialdehyde,10.0,Pure Substance,1
+1-propanol,10.0,Pure Substance,1
+Hexyl hydride,10.0,Pure Substance,1
+pentanol,10.0,Pure Substance,1
+Tetraethyl orthosilicate,10.0,Pure Substance,1
+n-Octane,10.0,Pure Substance,1
+Cyclohexane,10.0,Pure Substance,1
+Methanol,10.0,Pure Substance,1
+Ethyl Alcohol:1-propanol=2:3,10.0,Binary Mixture,1
+Ethyl Alcohol:Cyclohexane=2:3,10.0,Binary Mixture,1
+Ethyl Alcohol:Acetonitrile=3:1,10.0,Binary Mixture,1
+Ethyl Alcohol:Methanol=3:1,10.0,Binary Mixture,1
+Ethyl Alcohol:Methanol=1:1,10.0,Binary Mixture,1
+Ethyl Alcohol:Acetonitrile=9:1,10.0,Binary Mixture,1
+Ethyl Alcohol:1-propanol=4:1,10.0,Binary Mixture,1
+Ethyl Alcohol:pentanol=4:1,10.0,Binary Mixture,1
+Ethyl Alcohol:Acetonitrile=4:1,10.0,Binary Mixture,1
+Ethyl Alcohol:Acetonitrile=2:3,10.0,Binary Mixture,1
+Ethyl Alcohol:Cyclohexane=4:1,10.0,Binary Mixture,1
+Methanol:Ethyl Alcohol=3:2,10.0,Binary Mixture,1
+Ethyl Alcohol:Methanol=4:1,10.0,Binary Mixture,1
+Ethyl Alcohol:Methanol=9:1,10.0,Binary Mixture,1
+Cyclohexane:Ethyl Alcohol=1:9,10.0,Binary Mixture,1
+Acetonitrile:1-propanol=9:1,0.0,Binary Mixture,0
+Ethyl Alcohol:Tetraethyl orthosilicate=2:1,10.0,Binary Mixture,1
+Ethyl Alcohol:Cyclohexane=3:2,10.0,Binary Mixture,1
+Ethyl Alcohol:Acetonitrile=3:2,10.0,Binary Mixture,1
+Ethyl Alcohol:Acetonitrile:Cyclohexane=4:1:1,10.0,Ternary Mixture,1
+Ethyl Alcohol:Acetonitrile:pentanol=1:1:1,10.0,Ternary Mixture,1
+Ethyl Alcohol:Acetonitrile:Tetraethyl orthosilicate=1:1:1,10.0,Ternary Mixture,1
+Ethyl Alcohol:Acetonitrile:Cyclohexane=1:1:1,10.0,Ternary Mixture,1
+Ethyl Alcohol:Acetonitrile:Glutaric dialdehyde=1:1:1,3.9999999999999996,Ternary Mixture,1
+Ethyl Alcohol:Cyclohexane:1-propanol=5:4:1,6.666666666666667,Ternary Mixture,0
+Methanol:Ethyl Alcohol:Acetonitrile=5:4:1,6.666666666666666,Ternary Mixture,0
+Ethyl Alcohol:ethylene glycol:Methanol:Cyclohexane=2:3:4:1,7.75,Quaternary Mixture,1
+Ethyl Alcohol:Acetonitrile:Cyclohexane:1-propanol=2:1:4:3,5.75,Quaternary Mixture,1
+1-propanol:Ethyl Alcohol:Acetonitrile:Tetraethyl orthosilicate=1:2:1:1,10.0,Quaternary Mixture,1
+Ethyl Alcohol:Acetonitrile:Tetraethyl orthosilicate:1-propanol:Cyclohexane=1:1:1:1:1,10.0,Five Element Mixture,1
+Methanol:Ethyl Alcohol:Acetonitrile:1-propanol:Glutaric dialdehyde=1:1:1:1:1,8.2,Five Element Mixture,1
